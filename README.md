@@ -9,7 +9,7 @@
 <p align="left">
 </p>
 
-- 👯 I’m looking to collaborate on creating a **Trading Alert App** and started some test of api and concepts. This app will be focused on alerts giving flexiable options for the users to track the market. The potential tools used will be Python and React but open for suggestion.
+- 👯 I’m looking to collaborate on creating a **Trading Alert App** and started some test of api and concepts. This app will be focused on alerts giving flexiable options for the users to track the market. The potential tools used will be Python and React but open for suggestions.
 
 - 🔭 I’m currently working on **BulkBuying App**. The idea is people in the local community could come togehter and order food in bulk to save on delivery cost. This is to be dveloped in React.
 
