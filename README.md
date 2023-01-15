@@ -3,7 +3,14 @@
 
 - :mortar_board: I just completed the bootcamp with Le Wagon to enhance my skills as a full-stack developer. This has helped me greatly with my current role in developing an user interface to the National Transport Model.
 
-- It is about connnections between people, information, and resources. Becoming a full-stack developer makes me feel empowered to tackle problems that people faced in their daily life. I am very exciting to be part of this.
+- It is about connnections between people, information, and resources. Becoming a full-stack developer makes me feel empowered to tackle problems that people faced in their daily life. I am very excited to be part of this.
+
+
+<h3 align="left">Check Out My Development</h3>
+<p align="left">
+</p>
+
+- 👯 In a team of three at Le Wagon, we created a web solution to upcylcing junk and connecting poeple with talents in the community. Check out this website at http://www.valuejunk.site/. Details of the code can be found at github: https://github.com/fservignat/valuejunk.
 
 <h3 align="left">Ongoing Developments</h3>
 <p align="left">
