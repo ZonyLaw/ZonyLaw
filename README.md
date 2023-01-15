@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sunny Law</h1>
 <h3 align="left">About Me</h3>
 
-- :mortar_board: I just completed the bootcamp with Le Wagon to enhance my skills as a full-stack developer. This has helped me greatly with my current role in developing an user interface to the National Transport Model.
+- :mortar_board: I just completed a bootcamp with Le Wagon to enhance my skills as a full-stack developer. This has helped me greatly with my current role in developing an user interface to the National Transport Model.
 
 - It is about connnections between people, information, and resources. Becoming a full-stack developer makes me feel empowered to tackle problems that people faced in their daily life. I am very excited to be part of this.
 
