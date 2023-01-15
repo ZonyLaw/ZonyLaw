@@ -6,7 +6,7 @@
 - It is about connnections between people, information, and resources. Becoming a full-stack developer makes me feel empowered to tackle problems that people faced in their daily life. I am very excited to be part of this.
 
 
-<h3 align="left">Check Out My Development</h3>
+<h3 align="left">Check Out My Developments</h3>
 <p align="left">
 </p>
 
