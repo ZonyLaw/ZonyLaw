@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sunny Law</h1>
 <h3 align="left">About Me</h3>
 
-- :mortar_board: I just completed a bootcamp with Le Wagon to enhance my skills as a full-stack developer. This has helped me greatly with my current role in developing features for the National Transport Model taking the fundamental concept and apply it with other technologies.
+- :mortar_board: I completed a bootcamp with Le Wagon to enhance my skills as a full-stack developer. This has helped me greatly with my current role in developing features for the National Transport Model taking the fundamental concept and apply it with other technologies.
 
 - It is about connnections between people, information, and resources. Becoming a full-stack developer makes me feel empowered to tackle problems that people faced in their daily life. I am very excited to be part of this.
 
@@ -16,9 +16,9 @@
 <p align="left">
 </p>
 
-- 👯 I’m looking to collaborate on creating a **Trading Alert App** and started some test of api and concepts. This app will be focused on alerts giving flexiable options for the users to track the market. The potential tools used will be Python and React but open for suggestions.
+- 👯 I’m looking to collaborate on creating a **Trading Alert App**. I have started testing some api and concepts. This app will focus on alerts giving flexiable options for the users to track the market. The potential tools used will be Python and React but open for any suggestions.
 
-- 🔭 I’m currently working on **BulkBuying App**. The idea is people in the local community could come togehter and order food in bulk to save on delivery cost. This is to be developed in React.
+- 🔭 I’m currently working on **Food ording App**. The idea is people in the local community could come togehter and order food in bulk to save on delivery cost. This is to be developed in React.
 
 - :bulb: I am always on the look out for good ideas and put myself in people's shoes to see what they need and missing. I love to explore my creativity side through story telling.
 
