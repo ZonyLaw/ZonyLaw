@@ -16,7 +16,7 @@
 <p align="left">
 </p>
 
-- 👯 I’m looking to collaborate on creating a **Trading Alert App**. I have started testing some api and concepts. This app will focus on alerts giving flexiable options for the users to track the market. The potential tools used will be Python and React but open for any suggestions.
+- 👯 I’m looking to collaborate on creating a **Trading Alert App**. I have started testing some api and concepts. This app will focus on alerts giving flexiable options for the users to track the market. The tool to use will be Python Django given Python is good back-end language and Django provides a fast easy way to building a front-end.
 
 - 🔭 I’m currently working on **Food ording App**. The idea is people in the local community could come togehter and order food in bulk to save on delivery cost. This is to be developed in React.
 
