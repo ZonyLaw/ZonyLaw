@@ -12,13 +12,13 @@
 
 - 👯 In a team of three at Le Wagon, we created a web solution to upcylcing junk and connecting poeple with talents in the community. Check out this website at http://www.valuejunk.site/. Details of the code can be found at github: https://github.com/fservignat/valuejunk.
 
+- 🔭 I created a **Food ording App** front-end. The idea is people in the local community could come togehter and order food in bulk to save on delivery cost. This is to be developed in React.
+
 <h3 align="left">Ongoing Developments</h3>
 <p align="left">
 </p>
 
 - 👯 I’m looking to collaborate on creating a **Trading Alert App**. I have started testing some api and concepts. This app will focus on alerts giving flexiable options for the users to track the market. The tool to use will be Python Django given Python is good back-end language and Django provides a fast easy way to building a front-end.
-
-- 🔭 I’m currently working on **Food ording App**. The idea is people in the local community could come togehter and order food in bulk to save on delivery cost. This is to be developed in React.
 
 - :bulb: I am always on the look out for good ideas and put myself in people's shoes to see what they need and missing. I love to explore my creativity side through story telling.
 
