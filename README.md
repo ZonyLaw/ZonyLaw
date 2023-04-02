@@ -20,7 +20,7 @@
 
 - 👯 I’m looking to collaborate on creating a **Trading Alert App**. I have started testing some api and concepts. This app will focus on alerts giving flexiable options for the users to track the market. The tool to use will be Python Django given Python is good back-end language and Django provides a fast easy way to building a front-end.
 
-- :bulb: I am always on the look out for good ideas and put myself in people's shoes to see what they need and missing. I love to explore my creativity side through story telling.
+- :bulb: I am always on the look out for good ideas and put myself in people's shoes to see what they need and missing. I love to explore my creativity side through story telling and use technologies to deliver products to improve business operations.
 
 
 <h3 align="left">Connect with me:</h3>
