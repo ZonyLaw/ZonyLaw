@@ -12,7 +12,7 @@
 
 - 👯 In a team of three at Le Wagon, we created a web solution to upcylcing junk and connecting poeple with talents in the community. Check out this website at http://www.valuejunk.site/. Details of the code can be found at github: https://github.com/fservignat/valuejunk.
 
-- 🔭 I created the front-end of a **Food Ording App**. This is show case my React skills using key concepts such as routes, navigation, components, and context hooks.
+- 🍲 I developed the front-end of a **Food Ording App**. This is show case my React skills using key concepts such as routes, navigation, components, and context hooks.
 
 <h3 align="left">Ongoing Developments</h3>
 <p align="left">
