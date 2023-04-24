@@ -3,7 +3,7 @@
 
 - :mortar_board: I completed a bootcamp with Le Wagon to enhance my skills as a full-stack developer. This has helped me greatly with my current role in developing features for the National Transport Model taking the fundamental concept and apply it with other technologies.
 
-- It is about connnections between people, information, and resources. Becoming a full-stack developer makes me feel empowered to tackle problems that people faced in their daily life. I am very excited to be part of this.
+- It is about connnections between people, information, and resources. Being able to implement full-stack development makes me feel empowered to tackle problems that people faced in their daily life. I am very excited to be part of this.
 
 
 <h3 align="left">Check Out My Developments</h3>
