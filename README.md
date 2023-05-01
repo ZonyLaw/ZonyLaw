@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sunny Law</h1>
 <h3 align="left">About Me</h3>
 
-- :mortar_board: I completed a bootcamp with Le Wagon to enhance my skills in coding. This has helped me greatly with my current role in developing features for the National Transport Model tailoring to users' needs and applying the fundamental MVC concept with other technologies.
+- :mortar_board: I completed a bootcamp with Le Wagon to enhance my skills in coding. This has helped me greatly with my current role in developing analytical tools for the National Transport Model tailoring to users' needs and applying the fundamental MVC concept with other technologies.
 
 - It is about the connnections between people, information, and resources. Being able to adapt new technologies combined with my analysis skills makes me feel empowered to tackle problems that people faced in their daily life. I am very excited to be part of this.
 
