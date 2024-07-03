@@ -18,7 +18,7 @@
 <p align="left">
 </p>
 
-- 👯 I’m working on a project closely with my client to creat a **TradePro Tool App**. The app incorporates machine learning models for evaluating trading opportunities, CRON scheduling, and email alerts. The project is currently in development and accessible at: [TradePro Tool](https://trade-pro-4909851596e5.herokuapp.com/)
+- 👯 I’m working on a project closely with my client to create a **TradePro Tool App**. The app incorporates machine learning models for evaluating trading opportunities, CRON scheduling, and email alerts. The project is currently in development and accessible at: [TradePro Tool](https://trade-pro-4909851596e5.herokuapp.com/)
 
 
 
