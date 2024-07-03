@@ -18,7 +18,8 @@
 <p align="left">
 </p>
 
-- 👯 I’m looking to collaborate on creating a **Trading Alert App**. I have started testing some API and structuring the SQL database. This app will focus on alerts giving flexiable options for the users to track the market and keep a record of their performance. The tool will be Python Django given Python is good back-end language and Django provides a fast easy way to building a front-end.
+- 👯 I’m working on a project closely with my client to creat a **TradePro Tool App**. The app incorporates machine learning models for evaluating trading opportunities, CRON scheduling, and email alerts. The project is currently in development and accessible at: https://trade-pro-4909851596e5.herokuapp.com/![image](https://github.com/ZonyLaw/ZonyLaw/assets/104385712/d22193a5-81c7-448a-875a-e76dd52401b1)
+
 
 - :bulb: I am always on the look out for good ideas and put myself in people's shoes to see what they need and missing. I love to explore my creativity side through story telling and use technologies to deliver products to improve business operations.
 
