@@ -18,7 +18,8 @@
 <p align="left">
 </p>
 
-- 👯 I’m working on a project closely with my client to creat a **TradePro Tool App**. The app incorporates machine learning models for evaluating trading opportunities, CRON scheduling, and email alerts. The project is currently in development and accessible at: https://trade-pro-4909851596e5.herokuapp.com/![image](https://github.com/ZonyLaw/ZonyLaw/assets/104385712/d22193a5-81c7-448a-875a-e76dd52401b1)
+- 👯 I’m working on a project closely with my client to creat a **TradePro Tool App**. The app incorporates machine learning models for evaluating trading opportunities, CRON scheduling, and email alerts. The project is currently in development and accessible at: [TradePro Tool](https://trade-pro-4909851596e5.herokuapp.com/)
+
 
 
 - :bulb: I am always on the look out for good ideas and put myself in people's shoes to see what they need and missing. I love to explore my creativity side through story telling and use technologies to deliver products to improve business operations.
